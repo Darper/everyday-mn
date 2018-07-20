@@ -18,7 +18,6 @@ export class WhatWeValue extends React.Component{
     return (
       <article id="whatwevalue" className={whatwevalueClass}>
       <h2 className="major">WHAT WE VALUE</h2>
-      <span className="image main"><img src="images/pic01.jpg" alt="" /></span>
       <h2>Values are not what we do; they are what characterize everything we do.</h2>
       
       <h3>GENEROSITY IS OUR PRIVILEGE</h3>

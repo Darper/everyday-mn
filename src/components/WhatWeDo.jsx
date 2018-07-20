@@ -18,7 +18,6 @@ export class WhatWeDo extends React.Component{
     return (
       <article id="whatwedo" className={whatwedoClass}>
         <h2 className="major">WHAT WE DO TOGETHER</h2>
-        <span className="image main"><img src="images/pic02.jpg" alt="" /></span>
         
 
 <h2>ENHANCE OUR CITY</h2>
