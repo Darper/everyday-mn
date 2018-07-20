@@ -37,7 +37,7 @@ Near Hwy 169 & Hwy 55</p>
         <nav>
           <ul>
             <li><a href="#vision" onClick={() => this.props.transitionHandler('vision')}>Vision</a></li>
-            <li><a href="#whatwedo" onClick={() => this.props.transitionHandler('whatwedo')}>What We Do Together</a></li>
+            <li><a href="#whatwedo" onClick={() => this.props.transitionHandler('whatwedo')}>What We Do</a></li>
             <li><a href="#whatwevalue" onClick={() => this.props.transitionHandler('whatwevalue')}>What We Value</a></li>
           </ul>
         </nav>
