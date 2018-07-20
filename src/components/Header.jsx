@@ -28,8 +28,7 @@ export class Header extends React.Component{
             <h1>EVERYDAY CHURCH</h1>
             <p>EVERDAY PEOPLE LIVING OUT THE GOSPEL IN THE EVERYDAY RHYTHMS OF LIFE</p>
             <p>Coming February 2019</p>
-            <p>Twin Cities West Metro Area<br />
-Near Hwy 169 & Hwy 55</p>
+            <p>Twin Cities West Metro Area Near Hwy 169 & Hwy 55</p>
           </div>
         </div>
         <nav>
